@@ -1,12 +1,51 @@
-# React + Vite
+Dynamic List Manager 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This project is designed to allow users to input items dynamically into a list, with the list items appearing in grey text.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Key Features:
+Dynamic Input: Users can type an item and add it to the list.
 
-## Expanding the ESLint configuration
+Grey Text: Added items are displayed in grey for a clean, modern look.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React + Vite Setup: Fast refresh with Vite and React integration.
+
+Installation
+To get started with the project, follow these steps:
+
+Clone the repository:
+git clone https://github.com/your-username/dynamic-list-manager.git
+
+Navigate to the project directory:
+
+
+cd dynamic-list-manager
+
+Install dependencies:
+
+
+npm install
+
+Run the development server:
+
+
+npm run dev
+
+
+Visit http://localhost:3000 or whatever is displayed on the terminal to view the app.
+
+
+DynamicListManager.jsx: 
+
+Main component for managing the dynamic list.
+
+App.jsx: 
+
+Entry point for the app, where DynamicListManager is used.
+
+ 
+License
+
+
+This project was made by Hillary Mwangi Maina and is open-source.
+
