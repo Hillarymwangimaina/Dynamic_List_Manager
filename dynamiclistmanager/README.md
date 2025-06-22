@@ -13,8 +13,8 @@ React + Vite Setup: Fast refresh with Vite and React integration.
 Installation
 To get started with the project, follow these steps:
 
-Clone the repository:
-git clone https://github.com/your-username/dynamic-list-manager.git
+Clone the repository to your desired location:
+git clone https://github.com/Hillarymwangimaina/Dynamic_List_Manager.git
 
 Navigate to the project directory:
 
