@@ -18,7 +18,7 @@ Clone the repository to your desired location using git clone https://github.com
 Navigate to the project directory:
 
 
-cd dynamic-list-manager
+cd dynamiclistmanager
 
 Install dependencies:
 
